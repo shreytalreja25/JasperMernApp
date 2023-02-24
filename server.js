@@ -24,6 +24,6 @@ app.get('/api/reports', (req, res) => {
   });
 });
 
-app.listen(3001, () => {
-  console.log('Server listening on port 3001');
+app.listen(4000, () => {
+  console.log('Server listening on port 4000');
 });
